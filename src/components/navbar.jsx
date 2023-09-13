@@ -3,7 +3,6 @@ import { FaTimes, FaBars } from "react-icons/fa";
 import { Link } from "react-scroll";
 
 const Navbar = ({ activeTab }) => {
-  // console.log('activeTab',activeTab)
   const [isMenu, setIsMenu] = useState(false);
 
   const links = [
