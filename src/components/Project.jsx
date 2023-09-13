@@ -1,7 +1,3 @@
-import flappyBird from "../assets/flappyBird.webp";
-import instaMini from "../assets/instaMini.png";
-import travelGuide from "../assets/travekGuide.webp";
-import todoList from "../assets/todolist.jpeg";
 
 const Project = ({ demoLink, codeLink ,id,imgSrc,projectName}) => {
   const handleOnClick = (link) => {

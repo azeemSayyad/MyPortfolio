@@ -19,7 +19,7 @@ const Projects = forwardRef((props, ref) => {
       imgSrc: travelGuide,
       projectName: "travel guide",
       demo: "www.google.com",
-      codeLink: "https://github.com/azeemSayyad/InstaMiniServer",
+      codeLink: "https://github.com/azeemSayyad/TravelGuide",
     },
     {
       id: 3,
