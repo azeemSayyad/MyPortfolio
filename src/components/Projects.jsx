@@ -2,11 +2,18 @@ import flappyBird from "../assets/flappyBird.webp";
 import instaMini from "../assets/instaMini.png";
 import travelGuide from "../assets/travekGuide.webp";
 import todoList from "../assets/todolist.jpeg";
+import artiCrafts from "../assets/ArtiCrafts - image.png";
 import Project from "./Project";
 import { forwardRef } from "react";
 
 const Projects = forwardRef((props, ref) => {
   const projects = [
+    {
+      id: 5,
+      imgSrc: artiCrafts,
+      projectName: "ArtiCrafts (StartUp)",
+      demoLink: "https://articrafts.netlify.app/",
+    },
     {
       id: 1,
       imgSrc: instaMini,

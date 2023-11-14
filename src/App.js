@@ -34,7 +34,6 @@ function App() {
     }, options);
 
     if (homeRef.current) {
-      console.log(homeRef)
       observer.observe(homeRef.current);
     }
     if (aboutRef.current) {

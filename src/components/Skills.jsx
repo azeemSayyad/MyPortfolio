@@ -131,7 +131,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">React</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[77%] h-[2px] bg-cyan-500  `} />
+              <div className={`w-[90%] h-[2px] bg-cyan-500  `} />
             </div>
           </div>
           {/**ANGULAR */}
@@ -159,7 +159,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">Node JS</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[70%] h-[2px] bg-green-500  `} />
+              <div className={`w-[80%] h-[2px] bg-green-500  `} />
             </div>
           </div>
           {/**REDUX */}
@@ -173,7 +173,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">Redux</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[40%] h-[2px] bg-purple-500  `} />
+              <div className={`w-[70%] h-[2px] bg-purple-500  `} />
             </div>
           </div>
           {/** JAVASCRIPT*/}
@@ -187,7 +187,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">JavaScript</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[80%] h-[2px] bg-yellow-500  `} />
+              <div className={`w-[95%] h-[2px] bg-yellow-500  `} />
             </div>
           </div>
           {/**C++*/}
@@ -227,9 +227,9 @@ const Skills = forwardRef((props, ref) => {
               src={mongodb}
               alt="Mongo DB"
             />
-            <p className="text-2xl pt-3 pb-2">Mongo</p>
+            <p className="text-2xl pt-3 pb-2">MongoDB</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[50%] h-[2px] bg-green-500  `} />
+              <div className={`w-[70%] h-[2px] bg-green-500  `} />
             </div>
           </div>
           {/**HTML*/}
@@ -243,7 +243,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">HTML</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[80%] h-[2px] bg-orange-500  `} />
+              <div className={`w-[90%] h-[2px] bg-orange-500  `} />
             </div>
           </div>
           {/**CSS */}
@@ -257,7 +257,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">CSS</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[60%] h-[2px] bg-blue-500  `} />
+              <div className={`w-[80%] h-[2px] bg-blue-500  `} />
             </div>
           </div>
           {/**TAILWIND */}
@@ -271,7 +271,7 @@ const Skills = forwardRef((props, ref) => {
             />
             <p className="text-2xl pt-3 pb-2">Tailwind</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
-              <div className={`w-[30%] h-[2px] bg-gray-500  `} />
+              <div className={`w-[80%] h-[2px] bg-gray-500  `} />
             </div>
           </div>
           {/**MUI */}
