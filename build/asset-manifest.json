@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ad547fc.css",
+    "main.js": "/static/js/main.333aab6e.js",
+    "static/media/travekGuide.webp": "/static/media/travekGuide.62d4cda9abaf03967ac8.webp",
+    "static/media/ArtiCrafts - image.png": "/static/media/ArtiCrafts - image.0eb4de2b58fa9ff064f6.png",
+    "static/media/todolist.jpeg": "/static/media/todolist.74fc600e944ab2452834.jpeg",
+    "static/media/instaMini.png": "/static/media/instaMini.45ea42cafd6bc294502b.png",
+    "static/media/Azeem_Resume_main.pdf": "/static/media/Azeem_Resume_main.4095746a3f38d5ea7202.pdf",
+    "static/media/Redux.jpeg": "/static/media/Redux.1edcb44b20257cd395ee.jpeg",
+    "static/media/node.jpg": "/static/media/node.0ba8c74c7ac03e480673.jpg",
+    "static/media/react.jpg": "/static/media/react.6b97f7c08487cd22ea84.jpg",
+    "static/media/cpp.jpeg": "/static/media/cpp.54caf5591eaf607936aa.jpeg",
+    "static/media/flappyBird.webp": "/static/media/flappyBird.52d89e14e36a5760f5d4.webp",
+    "static/media/python.png": "/static/media/python.35bc4f407fb869d2188a.png",
+    "static/media/materailUI.jpeg": "/static/media/materailUI.8c1d8d62c87666da75e5.jpeg",
+    "static/media/css.png": "/static/media/css.f303f42dc9a87d520263.png",
+    "static/media/mongodb.jpeg": "/static/media/mongodb.6b90e6398b5fdf22d92c.jpeg",
+    "static/media/tailwind.jpeg": "/static/media/tailwind.569cb15672e1eaf7faf0.jpeg",
+    "static/media/javascript.jpg": "/static/media/javascript.19e15c459aef62632e8d.jpg",
+    "static/media/Angular.png": "/static/media/Angular.047dce68c025a0d08d0e.png",
+    "index.html": "/index.html",
+    "main.1ad547fc.css.map": "/static/css/main.1ad547fc.css.map",
+    "main.333aab6e.js.map": "/static/js/main.333aab6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad547fc.css",
+    "static/js/main.333aab6e.js"
+  ]
+}
