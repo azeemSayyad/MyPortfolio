@@ -12,7 +12,7 @@ const Projects = forwardRef((props, ref) => {
       id: 5,
       imgSrc: artiCrafts,
       projectName: "ArtiCrafts (StartUp)",
-      demoLink: "https://articrafts.netlify.app/",
+      demoLink: "https://articrafts.in",
     },
     {
       id: 1,

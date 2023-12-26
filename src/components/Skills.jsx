@@ -11,6 +11,10 @@ import cpp from "../assets/cpp.jpeg";
 import mongodb from "../assets/mongodb.jpeg";
 import python from "../assets/python.png";
 import mui from "../assets/materailUI.jpeg";
+import redis from "../assets/redis.jpg";
+import aws from "../assets/aws.jpeg";
+import nginx from "../assets/nginx.jpeg";
+
 import { forwardRef } from "react";
 
 const Skills = forwardRef((props, ref) => {
@@ -286,6 +290,48 @@ const Skills = forwardRef((props, ref) => {
             <p className="text-2xl pt-3 pb-2">MUI</p>
             <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
               <div className={`w-[50%] h-[2px] bg-blue-500  `} />
+            </div>
+          </div>
+          {/**AWS */}
+          <div
+            className={`shadow-blue-500 shadow-md md:hover:scale-110 duration-500 py-2 px-3 rounded-lg flex flex-col justify-center items-center text-center`}
+          >
+            <img
+              style={{ objectFit: "cover", width: "5rem", height: "5rem" }}
+              src={aws}
+              alt="mul"
+            />
+            <p className="text-2xl pt-3 pb-2">AWS</p>
+            <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
+              <div className={`w-[40%] h-[2px] bg-orange-500  `} />
+            </div>
+          </div>
+          {/**Redis */}
+          <div
+            className={`shadow-blue-500 shadow-md md:hover:scale-110 duration-500 py-2 px-3 rounded-lg flex flex-col justify-center items-center text-center`}
+          >
+            <img
+              style={{ objectFit: "cover", width: "5rem", height: "5rem" }}
+              src={redis}
+              alt="mul"
+            />
+            <p className="text-2xl pt-3 pb-2">REDIS</p>
+            <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
+              <div className={`w-[50%] h-[2px] bg-red-800  `} />
+            </div>
+          </div>
+          {/**NGinx */}
+          <div
+            className={`shadow-blue-500 shadow-md md:hover:scale-110 duration-500 py-2 px-3 rounded-lg flex flex-col justify-center items-center text-center`}
+          >
+            <img
+              style={{ objectFit: "cover", width: "5rem", height: "5rem" }}
+              src={nginx}
+              alt="mul"
+            />
+            <p className="text-2xl pt-3 pb-2">NGinx</p>
+            <div className="w-full h-[2px] rounded-sm mb-2 bg-white flex justify-start">
+              <div className={`w-[40%] h-[2px] bg-green-800  `} />
             </div>
           </div>
         </div>
