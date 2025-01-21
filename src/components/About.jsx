@@ -7,7 +7,7 @@ const About = forwardRef((props, ref) => {
       ref={ref}
       id="About"
       name="About"
-      className="cont  min-h-screen w-full bg-gradient-to-b to-black via-black from-gray-800"
+      className="cont  py-5 w-full bg-gradient-to-b to-black via-black from-gray-800"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="mx-auto mb-5">

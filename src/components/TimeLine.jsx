@@ -7,7 +7,7 @@ const TimeLine = forwardRef((props, ref) => {
       ref={ref}
       id="TimeLine"
       name="TimeLine"
-      className=" min-h-screen  w-full bg-gradient-to-b to-black via-black from-gray-800"
+      className="py-5  w-full bg-gradient-to-b to-black via-black from-gray-800"
     >
       <div className="flex flex-col  justify-center mx-auto h-full ">
         <div className=" custom-700:flex items-center justify-center sm:ml-12">
@@ -82,3 +82,4 @@ const TimeLine = forwardRef((props, ref) => {
 });
 
 export default TimeLine;
+

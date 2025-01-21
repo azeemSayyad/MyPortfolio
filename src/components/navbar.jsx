@@ -26,6 +26,10 @@ const Navbar = ({ activeTab }) => {
       id: 5,
       link: "Skills",
     },
+    {
+      id: 6,
+      link: "Contact",
+    },
   ];
 
   const handleClick = () => {

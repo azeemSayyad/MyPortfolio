@@ -48,7 +48,7 @@ const Projects = forwardRef((props, ref) => {
       ref={ref}
       id="Projects"
       name="Projects"
-      className=" bg-gradient-to-b  from-black to-gray-800 w-full text-white min-h-screen h-auto"
+      className=" bg-gradient-to-b  from-black to-gray-800 w-full text-white py-5 h-auto"
     >
       <div className=" max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full extra-small:p-0">
         <div className="pb-6">
